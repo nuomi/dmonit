@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+curl -A "" -d "&url=gsbr.guozitv.com&curl=&rt=1&nocache=0&host=&referer=&cookie=&agent=&speed=&pingcount=&pingsize=&area[]=0&area[]=1&area[]=2&area[]=3&&isp[]=0&isp[]=1&isp[]=2&isp[]=6&isp[]=7&isp[]=8&isp[]=4&" -e "http://www.17ce.com/" http://www.17ce.com/site/ping

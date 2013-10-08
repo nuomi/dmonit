@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+curl -A "" -d tid=$1 -e "http://www.17ce.com/" http://www.17ce.com/site/ajaxfresh 
